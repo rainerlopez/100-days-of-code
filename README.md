@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge.
 
+<img src="https://i.pinimg.com/564x/16/ff/6b/16ff6b731a88eadef2a941b46b5fb964.jpg" alt="Image of laptop with code" style="max-width: 100%;">
+
 ## Contents
 * [Rules](rules.md)
 * [Log (R1) - click here to see my progress](r1-log.md)
